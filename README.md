@@ -1,7 +1,7 @@
 # Space Runner
 
 This is a classic arcade game where you control a spaceship and dodge enemies while collecting bonuses.
-![image](C:\Users\g00n3\OneDrive\Desktop\2025.png)
+![image](2025.png)
 
 ## Getting Started
 
